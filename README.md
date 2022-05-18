@@ -7,6 +7,7 @@ Im currently learning:
   And  [Python](Python.org)
   
   i might not be the best developer because im bad and currently still learning 
+  
   anyways this is cringey. Thats it
   
 
