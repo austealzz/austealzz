@@ -3,8 +3,8 @@
 
 
 Im currently learning:
-  [AutoHotkey](Autohotkey.com)
-  And  [Python](Python.org)
+  AutoHotkey
+  And  Python
   
   i might not be the best developer because im bad and currently still learning 
   
